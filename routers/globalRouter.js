@@ -4,7 +4,6 @@ import { home, search } from "../controllers/videoController";
 import {
   getJoin,
   postJoin,
-  login,
   logout,
   getLogin,
   postLogin,
